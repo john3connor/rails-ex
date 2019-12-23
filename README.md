@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial sample application
+# Tran Van Hoang - 20161719 - IS.01.K61
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
